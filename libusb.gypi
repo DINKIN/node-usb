@@ -76,7 +76,7 @@
           ],
           'direct_dependent_settings': {
             'libraries': [
-              '-ludev',
+              '-I /home/rajiv/OpenWRT-Buildroot/openwrt/staging_dir/target-mips_34kc_uClibc-0.9.33.2/lib/ludev',
             ]
           }
         }],
